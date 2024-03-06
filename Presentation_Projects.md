@@ -15,8 +15,10 @@ footer: '"GitHub Projects Session" by @rulasg (Feb 2024)'
 
 <!-- _footer: "" -->
 <!-- _paginate: skip -->
+![bg right:40%][github_universe]
 
-# Issues and Projects
+# Projects & Issues
+### Plan and follow-up in GitHub
 
 by [@rulasg](https://github.com/rulasg)
 
@@ -282,3 +284,5 @@ by [@rulasg](https://github.com/rulasg)
 
 [windows_view_table]: ./images/windows_view_table.png
 [windows_table_export]: ./images/windows_table_export.png
+
+[github_universe]: ./images/github_universe.png
