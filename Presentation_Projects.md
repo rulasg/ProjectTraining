@@ -18,7 +18,7 @@ footer: '"GitHub Projects Session" by @rulasg (Feb 2024)'
 
 # Issues and Projects
 
-by [@rulasg](https://github.com/rulasg) (Feb 2024)
+by [@rulasg](https://github.com/rulasg)
 
 ---
 <style scoped> h2 { text-align: left; } p { font-size: 35px; } </style>
